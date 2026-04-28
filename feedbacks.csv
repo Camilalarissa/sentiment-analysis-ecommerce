@@ -1,7 +1,6 @@
-| id | comentario | data | produto |
-|:---|:---|:---|:---|
-| 1 | O vestido é lindo e chegou muito rápido! | 2026-04-01 | Vestido Midi |
-| 2 | O tecido é muito fino, não gostei da qualidade. | 2026-04-02 | Blusa Seda |
-| 3 | Entrega atrasada, mas o sapato é confortável. | 2026-04-05 | Scarpin |
-| 4 | Produto excelente, recomendo a todos! | 2026-04-10 | Calça Jeans |
-| 5 | A cor é bem diferente da foto, vou devolver. | 2026-04-12 | Camiseta Algodão |
+identificação,comentário,data,produto
+1,O vestido é lindo e chegou muito rápido!,01/04/2026,Vestido Midi
+2,O tecido é muito fino não gostei da qualidade,02/04/2026,Blusa Seda
+3,Entrega atrasada mas o sapato é confortável,05/04/2026,Scarpin
+4,Produto excelente recomendo a todos!,10/04/2026,Calça Jeans
+5,A cor é bem diferente da foto vou devolver,12/04/2026,Camiseta Algodão
