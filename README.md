@@ -22,4 +22,5 @@ Este projeto utiliza Processamento de Linguagem Natural (PLN) para analisar o se
 
 1. **Clone o repositório:**
    ```bash
-   git clone [https://github.com/Camilalarissa/sentiment-analysis-ecommerce)
+  
+git clone [https://github.com/camilalarissa/sentiment-analysis-ecommerce.git](https://github.com/camilalarissa/sentiment-analysis-ecommerce.git)
