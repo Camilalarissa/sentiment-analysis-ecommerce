@@ -54,11 +54,11 @@ def analisar_texto(texto):
     return resultados
 
 # 5. Interface Visual do Streamlit
-st.title("🛍️ Radar de Sentimento Baseado em Aspectos (ABSA)")
+st.title(" Radar de Sentimento Baseado em Aspectos (ABSA)")
 st.markdown("Analise os comentários de clientes e descubra exatamente **o que** está a agradar e **onde** a operação está a falhar.")
 
 # Criar duas abas: Uma para texto livre, outra para upload de arquivo
-aba1, aba2 = st.tabs(["📝 Teste Rápido (Texto)", "📁 Análise em Massa (CSV)"])
+aba1, aba2 = st.tabs(["Teste Rápido (Texto)", " Análise em Massa (CSV)"])
 
 with aba1:
     st.subheader("Cole o comentário do cliente:")
